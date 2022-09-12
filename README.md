@@ -4,6 +4,8 @@ Tools Scanning Backdoor Dari FX(FierzaXploit)
 <b>View</b><br>
 <p>Mobile</p>
 <img src="mobile.png">
+<p>Laptop</p>
+<img src="laptop.png">
 
 
 <b>Installing</b>
