@@ -2,12 +2,11 @@
 Tools Scanning Backdoor Dari FX(FierzaXploit)
 
 <b>View</b><br>
-<p>Mobile</p>
+<p>| Mobile</p>
 <img src="mobile.png">
-<p>Laptop</p>
+<p>| Laptop</p>
 <img src="laptop.png">
-
-
+<br>
 <b>Installing</b>
 1. Download Via .Zip
 2. Download via wget https://github.com/fierzaeriez/FX-Anti-Webshell.git -O FX.php
