@@ -10,7 +10,9 @@ Tools Scanning Backdoor Dari FX(FierzaXploit)
 <b>- Usage</b><br>
 Untuk menggunakan FX Anti-Webshell anda perlu mengupload FX Anti-Webshell kedalam hosting/directory website anda setelah berhasil ter-upload
 silahkan akses FX Anti-Webshellnya, 
-<br><br><b>EXAMPLE</b> : - https://127.0.0.1/NamaFile.php<br>- https://127.0.0.1/PATH/NamaFile.php
+<br><br><b>EXAMPLE</b> : 
+<br>- https://127.0.0.1/NamaFile.php<br>
+- https://127.0.0.1/PATH/NamaFile.php
 <br><br>
 <b>- View</b><br>
 <p>| Mobile</p>
