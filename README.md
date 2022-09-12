@@ -3,7 +3,7 @@ Tools Scanning Backdoor Dari FX(FierzaXploit)
 
 <b>- Installing</b>
 1. Download Via .Zip
-2. Download via wget https://github.com/fierzaeriez/FX-Anti-Webshell.git -O FX.php
+2. Download via wget https://raw.githubusercontent.com/fierzaeriez/FX-Anti-Webshell/main/FX_Anti-Webshell.php -O FX.php
 
 <b>- Usage</b><br>
 Untuk menggunakan FX Anti-Webshell anda perlu mengupload FX Anti-Webshell kedalam hosting/directory website anda setelah berhasil ter-upload
