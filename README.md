@@ -1,7 +1,7 @@
 # FX Anti-Webshell
 Tools Scanning Backdoor Dari FX(FierzaXploit)
 
-<b>*Mampu mendeteksi semua jenis webshell</b>
+<b>*</b>Mampu mendeteksi semua jenis webshell
 
 <b>- Installing</b>
 1. Download Via .Zip
